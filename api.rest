@@ -1,0 +1,13 @@
+PATCH https://rich-cod-polo-shirt.cyclic.app/api/products
+Content-Type: application/json
+
+{
+  "username":"vishal"
+}
+####
+PUT http://localhost:3000/api/products/1
+Content-Type: application/json
+
+{
+  "username":"sriram"
+}

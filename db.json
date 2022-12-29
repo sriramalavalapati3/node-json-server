@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "username": "vishal",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "category": "furniture",
+      "item": "Prepac Hall Tree with Bench and Shoe Storage",
+      "price": 18000,
+      "rating": 4.2,
+      "img": "https://ak1.ostkcdn.com/images/products/is/images/direct/1c9c833592a1bad2c3128964af28243f91977e3e/Prepac-Hall-Tree-with-Bench-and-Shoe-Storage.jpg?imwidth=480&impolicy=medium",
+      "description": "Walk into a clean and tidy home by stashing your outdoor gear and accessories inside this hall tree. Sit atop the bench to prepare for the outdoors, and grab a seat when you return home to remove your shoes."
+    }
+  ]
+}
